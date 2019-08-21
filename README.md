@@ -3,7 +3,7 @@ Assignment 1: Party Invites Application
 
 Assignment 2: Fetch Data using entity framework
 
-# (Assignment 3 & 4 Combine)
+(Assignment 3 & 4 Combine)
 
 Assignment 3: Fetch Data using ADO.Net in MVC
 
